@@ -100,6 +100,7 @@ Dismissal Types Breakdown (Caught, Bowled, LBW, Run Out, etc.)
 This provides a comprehensive year-on-year summary, making it easier to track how player performances, match outcomes, and team strategies evolved across seasons.
 
 Tools & Libraries:
+
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 Jupyter Notebook for exploration
